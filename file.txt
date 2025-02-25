@@ -1,2 +1,7 @@
 "Hello, Git!" 
+<<<<<<< HEAD
 "This is an Update." 
+=======
+"This is an update." 
+"This change is in the new-feature branch." 
+>>>>>>> new-feature
